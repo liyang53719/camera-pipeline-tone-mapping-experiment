@@ -15,6 +15,7 @@ img_NikonD40_0029 = imread('input_image\NikonD40_0029.NEF');
 img_NIKOND40_0029 = imread('input_image\NIKOND40_0029.dng');
 
 img = img_NikonD40_0029;
+% img = img_NIKOND40_0029;
 
 for k=1:4
     switch k
